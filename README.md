@@ -41,7 +41,9 @@
 ## Software and Firmware
 
 
-- MyStudio ：[官网下载](https://www.elephantrobotics.com/software/mystudio/v2.2/)  
+- MyStudio ：
+  [官网下载](https://www.elephantrobotics.com/software/mystudio/release/)  
+  [GitHub下载](https://github.com/elephantrobotics/myStudio/releases/tag/v3.0.1) 
   
   官方固件烧录器，机器人使用平台,适用于mycobot系列产品。
 
